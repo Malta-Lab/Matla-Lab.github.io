@@ -6,40 +6,6 @@ html body {
     margin: 0;
 }
 
-.navbar {
-    display: flex;
-    background-color: bisque;
-    width: 100%;
-}
-
-.navbar .enterprise {
-    display: flex;
-    align-items: center;
-    width: fit-content;
-    margin-left: .5rem;
-}
-
-.navbar .enterprise .name {
-    width: max-content;
-}
-
-.navbar .menu {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    width: -webkit-fill-available;
-    margin-right: 2rem;
-}
-
-.navbar .menu .links {
-    display: inline;
-}
-
-.navbar .menu .links li {
-    display: inline;
-    margin-right: 1rem;
-}
-
 .name {
     text-align: center;
 }
